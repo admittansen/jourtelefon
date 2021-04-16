@@ -14,3 +14,6 @@ Föreslagen hårdvara:
 * [SIM800](https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/)
 * Arduino av något slag
 * Telefonhuset från den gamla jourtelefonen
+
+Alternativ att kolla upp först
+* IP-telefoni
